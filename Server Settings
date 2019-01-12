@@ -9,8 +9,8 @@ config	no-hud	false
 config	voice-chat	false
 config	near-chat-only	false
 config	3rd-person	false
-config	leave-messages	true
-config	join-messages	true
+config	leave-messages	false
+config	join-messages	false
 config	message-of-the-day	Server restarts @ 04:00 GMT, Drop Ver: 0.1
 config	difficulty-offset	0.5
 config	motd-duration	20
@@ -180,7 +180,7 @@ gameini	PassiveTameIntervalMultiplier	1
 gameini	TamedDinoTorporDrainMultiplier	1
 features	engine-settings	false
 append	gameini	
-general	expertMode	false
+general	expertMode	true
 general	battleye	true
 general	server-language	en
 general	vday	false
@@ -189,7 +189,7 @@ general	mod-status-list	{}
 general	gameplay-log	false
 general	force-allow-cave-flyers	true
 general	vac	true
-general	gamesettings_saved_utc_timestamp_hidden	1547159141
+general	gamesettings_saved_utc_timestamp_hidden	1547230952
 general	automatic-update-mechanism	AUTOMATIC_UPDATE_ON_RESTART
 general	clusterid	
 general	enablecluster	false
@@ -216,7 +216,7 @@ start-param	AllowRaidDinoFeeding	true
 start-param	AllowHitMarkers	true
 start-param	FastDecayUnsnappedCoreStructures	true
 start-param	TribeLogDestroyedEnemyStructures	false
-start-param	OverrideOfficialDifficulty	10
+start-param	OverrideOfficialDifficulty	2.7
 start-param	PreventDownloadSurvivors	false
 start-param	PreventDownloadItems	false
 start-param	PreventDownloadDinos	false
