@@ -1,4 +1,4 @@
-Ver 1.0
+Ver 0.1
 
 ###############################
 ### Island / Scorched White ####################################################
@@ -47,7 +47,128 @@ Polymer				1 - 10
 Silica Pearls		1 - 10
 
 
-##########################
-### Island White Bonus #########################################################
-##########################
+####################################
+### Island / Scorched White Bonus ##############################################
+####################################
+
+### Basic Furniture ###
+
+Bookshelf			1 - 2
+Campfire			1 - 6
+Compost Bin			1 - 2
+Cooking Pot			1 - 2
+Feeding Trough		1 - 2
+Hide Sleeping Bag	1 - 6
+Large Storage Box	1 - 2
+Mortar And Pestle	1 - 2
+Preserving Bin		1
+Refining Forge		1 - 2
+Simple Bed			1 - 2
+Smithy				1 - 2
+Standing Torch		1
+Storage Box			1 - 2
+Wall Torch			1 - 2
+
+### Cloth Clothing ( Prim - Appr ) ###
+
+Cloth Boots			1
+Cloth Gloves		1
+Cloth Hat			1
+Cloth Pants			1
+Cloth Shirt			1
+
+### Hide Clothing ( Prim - Appr ) ###
+
+Hide Boots			1
+Hide Gloves			1
+Hide Hat			1
+Hide Pants			1
+Hide Shirt			1
+Wooden Shield		1
+
+### Player Consumables ( Prim ) ###
+
+Battle Tartare		1 - 7
+Cactus Broth		1 - 7
+Calien Soup			1 - 7
+Enduro Stew			1 - 7
+Energy Brew			1 - 7
+Focal Chili			1 - 7
+Fria Curry			1 - 7
+Lazarus Chowder		1 - 7
+Lesser Antidote		1 - 2
+Medical Brew		1 - 7
+Shadow Steak Saute	1 - 7
+
+### Primitive Tools ( Rams - Appr ) ###
+
+Fishing Rod			1
+Spyglass			1
+Stone Hatchet		1
+Stone Pick			1
+Torch				1
+
+### Raw Materials ( Primitive ) ###
+
+Cementing Paste		1 - 100
+Charcoal			1 - 200
+Chitin				1 - 200
+Fiber				1 - 400
+Flint				1 - 200
+Fungal Wood 		1 - 200
+Hide				1 - 400
+Keratin				1 - 200
+Oil					1 - 20
+Re-Fertilizer		1 - 2
+Stone				1 - 200
+Thatch				1 - 200
+Wood 				1 - 200
+
+### Wood Housing ( Primitive ) ###
+
+Dinosaur Gate 				2
+Dinosaur Gateway			2
+Sloped Wood Wall Left		4 - 8
+Sloped Wood Wall Right		4 - 8
+Sloped Wooden Roof			2 - 32
+Wooden Ceiling				2 - 32
+Wooden Door 				2 - 4
+Wooden Doorframe			2 - 4 
+Wooden Fence Foundation		2 - 32
+Wooden Foundation			2 - 32
+Wooden Hatchframe			2 - 32
+Wooden Ladder				2 - 12
+Wooden Pillar				2 - 32
+Wooden Railing				2 - 40
+Wooden Ramp					2 - 8
+Wooden Staircase			2 - 4
+Wooden Trapdoor				2 - 32
+Wooden Wall					2 - 64
+
+############################################################################################
+
+###############################
+### Island / Scorched Green ####################################################
+###############################
+
+### Advanced Tools ( Prim - Appr ) ###
+
+Canteen ( Filled )			1
+Glider						1
+GPS							1
+Metal Pick					1
+Metal Sword					1
+Pike						1
+Pliers						1
+Radio						1
+
+### Hide Clothing ( Prim - Appr ) ###
+
+Chitin Boots				1
+Chitin Chestpiece			1
+Chitin Gauntlets			1
+Chitin Helmet				1
+Chitin Leggings				1
+
+### Gardening ( Prim ) ###
 
