@@ -1,0 +1,257 @@
+Ver 1.0
+
+###############################
+### Island / Scorched White ####################################################
+###############################
+
+### Basic Furniture ( Primitive ) ###
+
+Bookshelf			1
+Cooking Pot			1
+Hide Sleeping Bag	1-3
+Preserving Bin		1-3
+Refining Forge		1
+Simple Bed			1
+Smithy				1
+
+### Cloth Clothing ( Prim - Rams ) ###
+
+Cloth Boots			1
+Cloth Gloves		1
+Cloth Hat			1
+Cloth Pants			1
+Cloth Shirt			1
+
+### Primitive Tools ( Prim - Rams ) ###
+
+Fishing Rod			1
+Spyglass			1
+Stone Hatchet		1
+Stone Pick			1
+Torch				1
+Whip				1
+
+### Resources ( Primitive ) ###
+
+Black Pearls		1 - 10
+Chitin				1 - 10
+Crystal				1 - 10
+Eletronics			1 - 10
+Element				1 - 10
+Element Shard		1 - 1000
+Keratin				1 - 10
+Metal				1 - 30
+Obsidian			1 - 10
+Oil					1 - 10
+Polymer				1 - 10
+Silica Pearls		1 - 10
+
+
+####################################
+### Island / Scorched White Bonus ##############################################
+####################################
+
+### Basic Furniture ###
+
+Bookshelf			1 - 2
+Campfire			1 - 6
+Compost Bin			1 - 2
+Cooking Pot			1 - 2
+Feeding Trough		1 - 2
+Hide Sleeping Bag	1 - 6
+Large Storage Box	1 - 2
+Mortar And Pestle	1 - 2
+Preserving Bin		1
+Refining Forge		1 - 2
+Simple Bed			1 - 2
+Smithy				1 - 2
+Standing Torch		1
+Storage Box			1 - 2
+Wall Torch			1 - 2
+
+### Cloth Clothing ( Prim - Appr ) ###
+
+Cloth Boots			1
+Cloth Gloves		1
+Cloth Hat			1
+Cloth Pants			1
+Cloth Shirt			1
+
+### Hide Clothing ( Prim - Appr ) ###
+
+Hide Boots			1
+Hide Gloves			1
+Hide Hat			1
+Hide Pants			1
+Hide Shirt			1
+Wooden Shield		1
+
+### Player Consumables ( Prim ) ###
+
+Battle Tartare		1 - 7
+Cactus Broth		1 - 7
+Calien Soup			1 - 7
+Enduro Stew			1 - 7
+Energy Brew			1 - 7
+Focal Chili			1 - 7
+Fria Curry			1 - 7
+Lazarus Chowder		1 - 7
+Lesser Antidote		1 - 2
+Medical Brew		1 - 7
+Shadow Steak Saute	1 - 7
+
+### Primitive Tools ( Rams - Appr ) ###
+
+Fishing Rod			1
+Spyglass			1
+Stone Hatchet		1
+Stone Pick			1
+Torch				1
+
+### Raw Materials ( Primitive ) ###
+
+Cementing Paste		1 - 100
+Charcoal			1 - 200
+Chitin				1 - 200
+Fiber				1 - 400
+Flint				1 - 200
+Fungal Wood 		1 - 200
+Hide				1 - 400
+Keratin				1 - 200
+Oil					1 - 20
+Re-Fertilizer		1 - 2
+Stone				1 - 200
+Thatch				1 - 200
+Wood 				1 - 200
+
+### Wood Housing ( Primitive ) ###
+
+Dinosaur Gate 				2
+Dinosaur Gateway			2
+Sloped Wood Wall Left		4 - 8
+Sloped Wood Wall Right		4 - 8
+Sloped Wooden Roof			2 - 32
+Wooden Ceiling				2 - 32
+Wooden Door 				2 - 4
+Wooden Doorframe			2 - 4 
+Wooden Fence Foundation		2 - 32
+Wooden Foundation			2 - 32
+Wooden Hatchframe			2 - 32
+Wooden Ladder				2 - 12
+Wooden Pillar				2 - 32
+Wooden Railing				2 - 40
+Wooden Ramp					2 - 8
+Wooden Staircase			2 - 4
+Wooden Trapdoor				2 - 32
+Wooden Wall					2 - 64
+
+############################################################################################
+
+###############################
+### Island / Scorched Green ####################################################
+###############################
+
+### Advanced Tools ( Prim - Appr ) ###
+
+Canteen ( Filled )			1
+Glider						1
+GPS							1
+Metal Pick					1
+Metal Sword					1
+Pike						1
+Pliers						1
+Radio						1
+
+### Chitin Clothing ( Prim - Appr ) ###
+
+Chitin Boots				1
+Chitin Chestpiece			1
+Chitin Gauntlets			1
+Chitin Helmet				1
+Chitin Leggings				1
+
+### Gardening ( Prim ) ###
+
+Amarberry Seed				1 - 10
+Azulberry Seed				1 - 10
+Citronal Seed				1 - 10
+Longrass Seed				1 - 10
+Medium Crop Plot			1 - 10
+Mejoberry Seed				1 - 10
+Narcoberry Seed				1 - 10
+Rockcarrot Seed				1 - 10
+Savoroot Seed				1 - 10
+Small Crop Plot				1 - 10
+Stimberry Seed				1 - 10
+Tintoberry Seed				1 - 10
+
+### Hide Clothing ( Prim - Appr ) ###
+
+Hide Boots			1
+Hide Gloves			1
+Hide Hat			1
+Hide Pants			1
+Hide Shirt			1
+Wooden Shield		1
+
+### Primitive Tools ( Prim - Rams ) ###
+
+Fishing Rod			1
+Spyglass			1
+Stone Hatchet		1
+Stone Pick			1
+Torch				1
+
+### Raw Materials ( Prim ) ###
+
+Cementing Paste		1 - 100
+Charcoal			1 - 100
+Chitin				1 - 100
+Crystal				1 - 100
+Fiber				1 - 200
+Flint				1 - 100
+Fungal Wood 		1 - 100
+Gunpowder			1 - 100
+Hide				1 - 200
+Keratin				1 - 100
+Metal Ingot			1 - 200
+Obsidian			1 - 10
+Re-Fertilizer 		1 - 5
+Sap 				1 - 6
+Silica Pearls		1 - 10
+Sparkpowder			1 - 100
+Stimulant			1 - 100
+Stone				1 - 100
+Thatch				1 - 100
+Wood 				
+
+### SMall Saddles ( Prim - Appr ) ###
+
+Raptor Saddles 		1
+
+### Stone Housing ###
+
+TBC
+
+### Wood Housing ( Primitive ) ###
+
+Dinosaur Gate 				1
+Dinosaur Gateway			1
+Sloped Wood Wall Left		2 - 4
+Sloped Wood Wall Right		2 - 4
+Sloped Wooden Roof			1 - 16
+Wooden Ceiling				1 - 16
+Wooden Door 				1 - 2
+Wooden Doorframe			1 - 2 
+Wooden Fence Foundation		1 - 16
+Wooden Foundation			1 - 16
+Wooden Hatchframe			1 - 16
+Wooden Ladder				1 - 6
+Wooden Pillar				1 - 16
+Wooden Railing				1 - 20
+Wooden Ramp					1 - 4
+Wooden Staircase			1 - 2
+Wooden Trapdoor				1 - 16
+Wooden Wall					1 - 32
+Wooden Window				1 - 4
+Wooden Windowframe			1 - 4
