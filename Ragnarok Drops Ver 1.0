@@ -1,4 +1,4 @@
-Ver 0.1
+Ver 1.0
 
 ###############################
 ### Island / Scorched White ####################################################
@@ -162,7 +162,7 @@ Pike						1
 Pliers						1
 Radio						1
 
-### Hide Clothing ( Prim - Appr ) ###
+### Chitin Clothing ( Prim - Appr ) ###
 
 Chitin Boots				1
 Chitin Chestpiece			1
@@ -172,3 +172,86 @@ Chitin Leggings				1
 
 ### Gardening ( Prim ) ###
 
+Amarberry Seed				1 - 10
+Azulberry Seed				1 - 10
+Citronal Seed				1 - 10
+Longrass Seed				1 - 10
+Medium Crop Plot			1 - 10
+Mejoberry Seed				1 - 10
+Narcoberry Seed				1 - 10
+Rockcarrot Seed				1 - 10
+Savoroot Seed				1 - 10
+Small Crop Plot				1 - 10
+Stimberry Seed				1 - 10
+Tintoberry Seed				1 - 10
+
+### Hide Clothing ( Prim - Appr ) ###
+
+Hide Boots			1
+Hide Gloves			1
+Hide Hat			1
+Hide Pants			1
+Hide Shirt			1
+Wooden Shield		1
+
+### Primitive Tools ( Prim - Rams ) ###
+
+Fishing Rod			1
+Spyglass			1
+Stone Hatchet		1
+Stone Pick			1
+Torch				1
+
+### Raw Materials ( Prim ) ###
+
+Cementing Paste		1 - 100
+Charcoal			1 - 100
+Chitin				1 - 100
+Crystal				1 - 100
+Fiber				1 - 200
+Flint				1 - 100
+Fungal Wood 		1 - 100
+Gunpowder			1 - 100
+Hide				1 - 200
+Keratin				1 - 100
+Metal Ingot			1 - 200
+Obsidian			1 - 10
+Re-Fertilizer 		1 - 5
+Sap 				1 - 6
+Silica Pearls		1 - 10
+Sparkpowder			1 - 100
+Stimulant			1 - 100
+Stone				1 - 100
+Thatch				1 - 100
+Wood 				
+
+### SMall Saddles ( Prim - Appr ) ###
+
+Raptor Saddles 		1
+
+### Stone Housing ###
+
+TBC
+
+### Wood Housing ( Primitive ) ###
+
+Dinosaur Gate 				1
+Dinosaur Gateway			1
+Sloped Wood Wall Left		2 - 4
+Sloped Wood Wall Right		2 - 4
+Sloped Wooden Roof			1 - 16
+Wooden Ceiling				1 - 16
+Wooden Door 				1 - 2
+Wooden Doorframe			1 - 2 
+Wooden Fence Foundation		1 - 16
+Wooden Foundation			1 - 16
+Wooden Hatchframe			1 - 16
+Wooden Ladder				1 - 6
+Wooden Pillar				1 - 16
+Wooden Railing				1 - 20
+Wooden Ramp					1 - 4
+Wooden Staircase			1 - 2
+Wooden Trapdoor				1 - 16
+Wooden Wall					1 - 32
+Wooden Window				1 - 4
+Wooden Windowframe			1 - 4
